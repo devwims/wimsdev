@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>What’s in My Stack?</title>
+      <link>https://wims.dev</link>
+      <description>Last 10 notes on What’s in My Stack?</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Day 1 - Setup and Goals</title>
+    <link>https://wims.dev/100-days-of-code/day-01</link>
+    <guid>https://wims.dev/100-days-of-code/day-01</guid>
+    <description><![CDATA[ Day 1 - Setup and Goals Set up the Quartz-based personal site Planned structure for the 100 Days of Code journal . ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Day 2 - Java OOP Review</title>
+    <link>https://wims.dev/100-days-of-code/day-02</link>
+    <guid>https://wims.dev/100-days-of-code/day-02</guid>
+    <description><![CDATA[ Day 2 - Java OOP Review Reviewed key Object-Oriented Programming concepts in Java including inheritance, polymorphism, and encapsulation. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>100 Days of Code</title>
+    <link>https://wims.dev/100-days-of-code/</link>
+    <guid>https://wims.dev/100-days-of-code/</guid>
+    <description><![CDATA[ 100 Days of Code A journal documenting my progress through the 100 Days of Code challenge. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>About Me</title>
+    <link>https://wims.dev/about/</link>
+    <guid>https://wims.dev/about/</guid>
+    <description><![CDATA[ About Me I am a backend-focused software developer specializing in Java and Spring Boot. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Getting Started with Quartz</title>
+    <link>https://wims.dev/blog/getting-started-quartz</link>
+    <guid>https://wims.dev/blog/getting-started-quartz</guid>
+    <description><![CDATA[ Getting Started with Quartz A quick guide on setting up and deploying a Quartz-powered personal site. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Blog</title>
+    <link>https://wims.dev/blog/</link>
+    <guid>https://wims.dev/blog/</guid>
+    <description><![CDATA[ Blog Insights and tutorials on software development topics. Getting Started with Quartz . ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Contact</title>
+    <link>https://wims.dev/contact/</link>
+    <guid>https://wims.dev/contact/</guid>
+    <description><![CDATA[ Contact For inquiries or collaborations, reach out via email: hello@wims.dev. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Generics</title>
+    <link>https://wims.dev/core-java/generics</link>
+    <guid>https://wims.dev/core-java/generics</guid>
+    <description><![CDATA[ Generics Understanding Java Generics and how they provide type safety and flexibility. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Core Java</title>
+    <link>https://wims.dev/core-java/</link>
+    <guid>https://wims.dev/core-java/</guid>
+    <description><![CDATA[ Core Java Comprehensive notes on Core Java topics. Topics OOP Basics Multithreading Generics . ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item><item>
+    <title>Multithreading</title>
+    <link>https://wims.dev/core-java/multithreading</link>
+    <guid>https://wims.dev/core-java/multithreading</guid>
+    <description><![CDATA[ Multithreading Notes on creating and managing threads in Java, synchronization, and concurrency best practices. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 18:39:59 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
